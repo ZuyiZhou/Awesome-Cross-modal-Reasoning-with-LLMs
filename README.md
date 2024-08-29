@@ -53,18 +53,14 @@
 |  Macaw-LLM ![Star](https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM.svg?style=social&label=Star) | <br> [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093) <br>  | [Github](https://github.com/lyuchenyang/Macaw-LLM) | [Demo](https://www.dropbox.com/scl/fo/4ded7qj8my90fes1yxqqd/h?dl=0&rlkey=is2zkfrw76yiidwolgm47x9tv) |2023|
 |  LLaMA-Adapter ![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) | <br> [**LLaMA-Adapter: Efficient Fine-tuning of LLaMA**](https://arxiv.org/abs/2303.16199) <br>  | [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | [Demo](http://imagebind-llm.opengvlab.com/) |2023|
 |  LLaMA-Adapter V2 ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg?style=social&label=Star) | <br> [**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**](https://arxiv.org/abs/2304.15010) <br>  | [Github](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | [Demo](http://imagebind-llm.opengvlab.com/) |2023|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-
-
-
-
+| OFA(using MultiInstruct) ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star)  | <br> [**MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/abs/2205.05638) <br>  | [Github](https://github.com/VT-NLP/MultiInstruct) | -- |2023|
+| ChatBridge ![Star](https://img.shields.io/github/stars/joez17/ChatBridge.svg?style=social&label=Star)  | <br> [**ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst**](https://arxiv.org/pdf/2305.16103.pdf) <br>  | [Github](https://github.com/joez17/ChatBridge) | -- |2023|
+| PandaGPT ![Star](https://img.shields.io/github/stars/yxuansu/PandaGPT.svg?style=social&label=Star)  | <br> [**PandaGPT: One Model To Instruction-Follow Them All**](https://arxiv.org/abs/2305.16355) <br>  | [Github](https://github.com/yxuansu/PandaGPT) | [Demo](https://huggingface.co/spaces/GMFTBY/PandaGPT) |2023|
+| MultiModal-GPT ![Star](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT.svg?style=social&label=Star)  | <br> [**MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**](https://arxiv.org/abs/2305.04790v3) <br>  | [Github](https://github.com/open-mmlab/Multimodal-GPT) | -- |2023|
+| Ying-VLM [Star](https://img.shields.io/github/stars/M3-IT/YING-VLM.svg?style=social&label=Star)  | <br> [**M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning !**](https://arxiv.org/abs/2306.04387) <br>  | [Github](https://github.com/M3-IT/YING-VLM) | [Demo](https://huggingface.co/MMInstruction/YingVLM) |2023|
+| ![Star](https://img.shields.io/github/stars/ChenDelong1999/polite-flamingo.svg?style=social&label=Star)  | <br> [**Visual Instruction Tuning with Polite Flamingo**](https://arxiv.org/abs/2307.01003) <br>  | [Github](https://github.com/ChenDelong1999/polite-flamingo) | [Demo](https://github.com/ChenDelong1999/polite-flamingo) |2023|
+| ![Star](https://img.shields.io/github/stars/Ahnsun/ChatSpot.svg?style=social&label=Star)  | <br> [**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**](https://arxiv.org/abs/2307.09474) <br>  | [Github](https://github.com/Ahnsun/ChatSpot) | [Demo](https://chatspot.streamlit.app/) |2023|
+| ![Star](https://img.shields.io/github/stars/mlpc-ucsd/BLIVA.svg?style=social&label=Star)  | <br> [**BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual**](https://arxiv.org/pdf/2308.09936) <br>  | [Github](https://github.com/mlpc-ucsd/BLIVA) | [Demo](https://github.com/mlpc-ucsd/BLIVA?tab=readme-ov-file) |2024|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
@@ -74,7 +70,6 @@
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
