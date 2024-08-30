@@ -74,6 +74,9 @@ Coming soon！
 
 ### Multimodal Pre-training
 
+| ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa.svg?style=social&label=Star)  | <br> [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501) <br>  | [Github](https://github.com/facebookresearch/LaViLa) | [Demo](https://huggingface.co/spaces/nateraw/lavila) |2023|
+| ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star)  | <br> [**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/abs/2204.14198) <br>  | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) |2022|
+| VideoCoCa | <br> [**VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners**](https://arxiv.org/abs/2212.04979) <br>  | --| -- |2023|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
@@ -82,5 +85,30 @@ Coming soon！
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-
-
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
