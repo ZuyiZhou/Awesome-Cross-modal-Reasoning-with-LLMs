@@ -69,8 +69,11 @@
 | mPLUG-Owl2 ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star)  | <br> [**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**](https://arxiv.org/pdf/2311.04257.pdf) <br>  | [Github](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2) | [Demo](https://modelscope.cn/studios/damo/mPLUG-Owl2/summary) |2023|
 | mPLUG-Owl ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-Owl.svg?style=social&label=Star)  | <br> [**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**](https://arxiv.org/pdf/2304.14178.pdf)<br>  | [Github](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl) | [Demo](https://huggingface.co/spaces/MAGAer13/mPLUG-Owl) |2023|
 | X-LLM ![Star](https://img.shields.io/github/stars/phellonchen/X-LLM.svg?style=social&label=Star)  | <br> [**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**](https://arxiv.org/abs/2305.04160) <br>  | [Github](https://github.com/phellonchen/X-LLM) | -- |2023|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| NExT-GPT ![Star](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)  | <br> [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519) <br>  | [Github](https://github.com/NExT-GPT/NExT-GPT) | [Demo](https://acc414b22d6839d28f.gradio.live/) |20|
+| ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT/tree/main/speechgpt.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt) | [Demo](https://huggingface.co/fnlp/SpeechGPT-7B-cm) |2023|
+
+### Multimodal Pre-training
+
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
