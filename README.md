@@ -27,7 +27,7 @@ Coming soon！
 | VCoder ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star)  | <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://openaccess.thecvf.com/content/CVPR2024/html/Jain_VCoder_Versatile_Vision_Encoders_for_Multimodal_Large_Language_Models_CVPR_2024_paper.html) <br>  | [Github](https://github.com/SHI-Labs/VCoder) | [Demo](https://huggingface.co/shi-labs/vcoder_ds_llava-v1.5-13b) |2024|
 |  V2L-Tokenizer  ![Star](https://img.shields.io/github/stars/zh460045050/V2L-Tokenizer.svg?style=social&label=Star) | <br> [**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Beyond_Text_Frozen_Large_Language_Models_in_Visual_Signal_Comprehension_CVPR_2024_paper.pdf) <br>  | [Github](https://github.com/zh460045050/V2L-Tokenizer) | -- |2024|
 | BT-Adapter ![Star](https://img.shields.io/github/stars/farewellthree/BT-Adapter.svg?style=social&label=Star)  | <br> [**BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning**](https://arxiv.org/abs/2309.15785) <br>  | [Github](https://github.com/farewellthree/BT-Adapter) | [Demo](https://huggingface.co/farewellthree/BTAdapter-Weight) |2024|
-|  MEAgent | <br> [**Few-Shot Multimodal Explanation for Visual Question Answering**](https://openreview.net/forum?id=jPpK9RzWvh&referrer=%5Bthe%20profile%20of%20Dizhan%20Xue%5D(%2Fprofile%3Fid%3D~Dizhan_Xue1)) <br>  | -- | -- |2024|
+|  MEAgent | <br> [**Few-Shot Multimodal Explanation for Visual Question Answering**](https://openreview.net/forum?id=jPpK9RzWvh&referrer=%5Bthe%20profile%20of%20Dizhan%20Xue%5D(%2Fprofile%3Fid%3D~Dizhan_Xue1)) <br>  | [Github](https://github.com/LivXue/FS-MEVQA) | -- |2024|
 
 ### Instruction Tuning
 
@@ -74,18 +74,42 @@ Coming soon！
 
 ### Multimodal Pre-training
 
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa.svg?style=social&label=Star)  | <br> [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501) <br>  | [Github](https://github.com/facebookresearch/LaViLa) | [Demo](https://huggingface.co/spaces/nateraw/lavila) |2023|
 | ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star)  | <br> [**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/abs/2204.14198) <br>  | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/dhansmair/flamingo-mini-cap) |2022|
 | VideoCoCa | <br> [**VideoCoCa: Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners**](https://arxiv.org/abs/2212.04979) <br>  | --| -- |2023|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| OpenFlamingo ![Star](https://img.shields.io/github/stars/openflamingo/OpenFlamingo.svg?style=social&label=Star)  | <br> [**OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models**](https://arxiv.org/abs/2308.01390) <br>  | [Github](https://github.com/mlfoundations/open_flamingo) | [Demo](https://huggingface.co/spaces/openflamingo/OpenFlamingo) |2023|
+| Otter ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star)  | <br> [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425) <br>  | [Github](https://github.com/Luodian/Otter) | [Demo](https://openxlab.org.cn/models/detail/YuanhanZhang/OTTER-Image-MPT7B) |2023|
+| Cheetor  ![Star](https://img.shields.io/github/stars/DCDmllm/Cheetah.svg?style=social&label=Star)  | <br> [**Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions**](https://arxiv.org/abs/2308.04152) <br>  | [Github](https://github.com/DCDmllm/Cheetah) | -- |2024|
+| MAGMA ![Star](https://img.shields.io/github/stars/Aleph-Alpha/magma.svg?style=social&label=Star)  | <br> [**MAGMA -- Multimodal Augmentation of Generative Models through Adapter-based Finetuning**](https://arxiv.org/abs/2112.05253) <br>  | [Github](https://github.com/Aleph-Alpha/magma) | -- |2022|
+| Prismer ![Star](https://img.shields.io/github/stars/NVlabs/prismer.svg?style=social&label=Star)  | <br> [**Prismer: A Vision-Language Model with Multi-Task Experts**](https://arxiv.org/abs/2303.02506) <br>  | [Github](https://github.com/NVlabs/prismer) | [Demo](https://huggingface.co/spaces/lorenmt/prismer) |2024|
+| PaLI ![Star](https://img.shields.io/github/kyegomez/PALI.svg?style=social&label=Star)  | <br> [**PaLI: A Jointly-Scaled Multilingual Language-Image Model**](https://arxiv.org/abs/2209.06794) <br>  | [Github](https://github.com/kyegomez/PALI) | -- |2022|
+| LAVILA ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa.svg?style=social&label=Star)  | <br> [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501) <br>  | [Github](https://github.com/facebookresearch/LaViLa) | [Demo](https://arxiv.org/abs/2212.04501) |2023|
+| CoCa ![Star](https://img.shields.io/github/stars/lucidrains/CoCa-pytorch.svg?style=social&label=Star)  | <br> [**CoCa: Contrastive Captioners are Image-Text Foundation Models**](https://arxiv.org/abs/2205.01917) <br>  | [Github](https://github.com/lucidrains/CoCa-pytorch) | -- |2022|
+| Gato ![Star](https://img.shields.io/github/stars/OrigamiDream/gato.svg?style=social&label=Star)  | <br> [**A Generalist Agent**](https://arxiv.org/abs/2205.06175) <br>  | [Github](https://github.com/OrigamiDream/gato) | -- |2022|
+| PaLI-X | <br> [**PaLI-X: On Scaling up a Multilingual Vision and Language Model**](https://arxiv.org/abs/2305.18565) <br>  | -- | -- |2023|
+| COSA ![Star](https://img.shields.io/github/stars/https://github.com/TXH-mercury/COSA?tab=readme-ov-file.svg?style=social&label=Star)  | <br> [**COSA: Concatenated Sample Pretrained Vision-Language Foundation Model**](https://arxiv.org/abs/2306.09085) <br>  | [Github](https://github.com/TXH-mercury/COSA) | [Demo](https://drive.google.com/file/d/1jaKFGbVE-BW3x5JUjRHbRqhVaXIy8q8s/view) |2023|
+| GIT ![Star](https://img.shields.io/github/stars/microsoft/GenerativeImage2Text.svg?style=social&label=Star)  | <br> [**GIT: A Generative Image-to-text Transformer for Vision and Language**](https://arxiv.org/abs/2205.14100) <br>  | [Github](https://github.com/microsoft/GenerativeImage2Text) | -- |2023|
+| BEiT-3  | <br> [**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**](https://arxiv.org/abs/2208.10442) <br>  | [Github](https://github.com/microsoft/unilm/tree/master/beit3) | -- |2022|
+| VLMo  | <br> [**Vlmo: Unified vision-language pretraining with mixture-of-modality-experts**](https://arxiv.org/abs/2111.02358) <br>  | [Github](https://github.com/microsoft/unilm/tree/master/vlmo) | [Demo](https://github.com/wenhui0924/vlmo_ckpts/releases/download/vlmo/vlmo_base_patch16_224.pt) |2022|
+| Kosmos-1 | <br> [**Language Is Not All You Need: Aligning Perception with Language Models**](https://arxiv.org/abs/2302.14045) <br>  | [Github](https://github.com/bjoernpl/KOSMOS_reimplementation) | -- |2022|
+| Kosmos-2 | <br> [**(Kosmos-2: Grounding Multimodal Large Language Models to the World**](https://arxiv.org/abs/2306.14824) <br>  | [Github](https://github.com/microsoft/unilm/tree/master/kosmos-2) | [Demo](https://huggingface.co/spaces/ydshieh/Kosmos-2) |2023|
+| Unified-IO ![Star](https://img.shields.io/github/stars/allenai/unified-io-inference.svg?style=social&label=Star)  | <br> [**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**](https://arxiv.org/abs/2206.08916) <br>  | [Github](https://github.com/allenai/unified-io-inference) | -- |2023|
+| mPLUG-2 ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-2.svg?style=social&label=Star)  | <br> [**mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**](https://arxiv.org/abs/2302.00402) <br>  | [Github](https://github.com/X-PLUG/mPLUG-2) | -- |2023|
+| MetaLM  | <br> [**Language Models are General-Purpose Interfaces**](https://arxiv.org/abs/2206.06336) <br>  | [Github](https://github.com/microsoft/unilm/tree/master/metalm) | -- |2022|
+
+
+
+## Multimodal Fusion Engine
+
+### Prompt Tuning
+
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| Socratic Models ![Star](https://img.shields.io/github/stars/abhinav-neil/socratic-models.svg?style=social&label=Star)  | <br> [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/abs/2204.00598) <br>  | [Github](https://github.com/abhinav-neil/socratic-models) | -- |2022|
+| PromptCap ![Star](https://img.shields.io/github/stars/Yushi-Hu/PromptCap.svg?style=social&label=Star)  | <br> [**PromptCap: Prompt-Guided Task-Aware Image Captioning**](https://arxiv.org/abs/2211.09699) <br>  | [Github](https://github.com/Yushi-Hu/PromptCap) | [Demo](https://huggingface.co/tifa-benchmark/promptcap-coco-vqa) |2023|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
