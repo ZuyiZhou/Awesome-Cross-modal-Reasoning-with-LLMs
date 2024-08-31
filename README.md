@@ -101,9 +101,9 @@ Coming soon！
 
 
 
-## Multimodal Fusion Engine
+## Textual Processor
 
-### Prompt Tuning
+### Semantic Refiner
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
@@ -118,6 +118,26 @@ Coming soon！
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| PointCLIP V2 ![Star](https://img.shields.io/github/stars/yangyangyang127/PointCLIP_V2.svg?style=social&label=Star)  | <br> [**PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning**](https://arxiv.org/abs/2211.11682) <br>  | [Github](https://github.com/yangyangyang127/PointCLIP_V2) | -- |2023|
+| ViewRefer ![Star](https://img.shields.io/github/stars/Ivan-Tang-3D/ViewRefer3D.svg?style=social&label=Star)  | <br> [**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**](https://arxiv.org/abs/2303.16894) <br>  | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D) | -- |2023|
+| IdealGPT ![Star](https://img.shields.io/github/stars/Hxyou/IdealGPT.svg?style=social&label=Star)  | <br> [**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**](https://arxiv.org/pdf/2305.14985.pdf) <br>  | [Github](https://github.com/Hxyou/IdealGPT) | -- |2023|
+| UnifiedQA ![Star](https://img.shields.io/github/stars/allenai/unifiedqa.svg?style=social&label=Star)  | <br> [**UnifiedQA: Crossing Format Boundaries With a Single QA System**](https://arxiv.org/abs/2005.00700) <br>  | [Github](https://github.com/allenai/unifiedqa) | [Demo]( https://unifiedqa.apps.allenai.org/) |2020|
+
+## Cognitive Controller
+
+### Programmantic Construction
+
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
+| Chameleon ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)  | <br> [**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) <br>  | [Github](https://github.com/lupantech/chameleon-llm) | -- |2023|
+| AssistGPT ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)  | <br> [**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**](https://arxiv.org/abs/2306.08640) <br>  | [Github](https://github.com/showlab/assistgpt) | -- |2023|
+| ProgPrompt ![Star](https://img.shields.io/github/stars/NVlabs/progprompt-vh.svg?style=social&label=Star)  | <br> [**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br>  | [Github](https://github.com/NVlabs/progprompt-vh) | -- |2022|
+| Instruct2Act ![Star](https://img.shields.io/github/stars/allenai/visprog.svg?style=social&label=Star)  | <br> [**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559) <br>  | [Github](https://github.com/allenai/visprog) | -- |2023|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star)  | <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/abs/2305.11176) <br>  | [Github](https://github.com/OpenGVLab/Instruct2Act) | [Demo]() |20|
+| ViperGPT ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)  | <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) <br>  | [Github](https://github.com/cvlab-columbia/viper) | -- |2023|
+| ProViQ  | <br> [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) <br>  | -- | --|2023|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
@@ -138,4 +158,4 @@ Coming soon！
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+
