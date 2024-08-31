@@ -138,14 +138,18 @@ Coming soon！
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star)  | <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/abs/2305.11176) <br>  | [Github](https://github.com/OpenGVLab/Instruct2Act) | [Demo]() |20|
 | ViperGPT ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)  | <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) <br>  | [Github](https://github.com/cvlab-columbia/viper) | -- |2023|
 | ProViQ  | <br> [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) <br>  | -- | --|2023|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+
+### Linguistic Interaction
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| MoqaGPT ![Star](https://img.shields.io/github/stars/lezhang7/MOQAGPT.svg?style=social&label=Star)  | <br> [**MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**](https://arxiv.org/abs/2310.13265) <br>  | [Github](https://github.com/lezhang7/MOQAGPT) | -- |2023|
+| ChatCaptioner ![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)  | <br> [**ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions**](https://arxiv.org/abs/2303.06594) <br>  | [Github]https://github.com/Vision-CAIR/ChatCaptioner) | -- |2023|
+| Video ChatCaptioner ![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)  | <br> [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) <br>  | [Github](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | [-- |2023|
+| Inner Monologue  | <br> [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://arxiv.org/abs/2207.05608) <br>  | [Github](https://innermonologue.github.io/) | -- |2022|
+| Shikra ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star)  | <br> [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/abs/2306.15195) <br>  | [Github](https://github.com/shikras/shikra) | [Demo](shikras/shikra) |2023|
+| MM-REACT ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)  | <br> [**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**](MM-ReAct) <br>  | [Github](https://github.com/microsoft/MM-REACT) | [Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react) |2023|
+| SayCan ![Star](https://img.shields.io/github/stars/kyegomez/SayCan.svg?style=social&label=Star)  | <br> [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/abs/2204.01691) <br>  | [Github](https://github.com/kyegomez/SayCan) | --|2022|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
