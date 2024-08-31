@@ -110,10 +110,14 @@ Coming soon！
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | Socratic Models ![Star](https://img.shields.io/github/stars/abhinav-neil/socratic-models.svg?style=social&label=Star)  | <br> [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/abs/2204.00598) <br>  | [Github](https://github.com/abhinav-neil/socratic-models) | -- |2022|
 | PromptCap ![Star](https://img.shields.io/github/stars/Yushi-Hu/PromptCap.svg?style=social&label=Star)  | <br> [**PromptCap: Prompt-Guided Task-Aware Image Captioning**](https://arxiv.org/abs/2211.09699) <br>  | [Github](https://github.com/Yushi-Hu/PromptCap) | [Demo](https://huggingface.co/tifa-benchmark/promptcap-coco-vqa) |2023|
-| ![Star]()  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| img2llm  | <br> [**From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models**](https://arxiv.org/abs/2212.10846) <br>  | [Github](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa) |-- |2023|
+| MoqaGPT ![Star](https://img.shields.io/github/stars/lezhang7/MOQAGPT.svg?style=social&label=Star)  | <br> [**MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**](https://arxiv.org/abs/2310.13265) <br>  | [Github](https://github.com/lezhang7/MOQAGPT) | -- |2023|
+| VAST ![Star](https://img.shields.io/github/stars/TXH-mercury/VAST.svg?style=social&label=Star)  | <br> [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500) <br>  | [Github](https://github.com/TXH-mercury/VAST) | -- |2023|
+
+### Content Amplifier
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
 | ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
