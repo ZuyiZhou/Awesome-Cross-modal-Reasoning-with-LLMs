@@ -138,28 +138,48 @@ Coming soon！
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star)  | <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/abs/2305.11176) <br>  | [Github](https://github.com/OpenGVLab/Instruct2Act) | [Demo]() |20|
 | ViperGPT ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)  | <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) <br>  | [Github](https://github.com/cvlab-columbia/viper) | -- |2023|
 | ProViQ  | <br> [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) <br>  | -- | --|2023|
-
+|  MEAgent | <br> [**Few-Shot Multimodal Explanation for Visual Question Answering**](https://openreview.net/forum?id=jPpK9RzWvh&referrer=%5Bthe%20profile%20of%20Dizhan%20Xue%5D(%2Fprofile%3Fid%3D~Dizhan_Xue1)) <br>  | [Github](https://github.com/LivXue/FS-MEVQA) | -- |2024|
 ### Linguistic Interaction
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | MoqaGPT ![Star](https://img.shields.io/github/stars/lezhang7/MOQAGPT.svg?style=social&label=Star)  | <br> [**MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**](https://arxiv.org/abs/2310.13265) <br>  | [Github](https://github.com/lezhang7/MOQAGPT) | -- |2023|
 | ChatCaptioner ![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)  | <br> [**ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions**](https://arxiv.org/abs/2303.06594) <br>  | [Github]https://github.com/Vision-CAIR/ChatCaptioner) | -- |2023|
-| Video ChatCaptioner ![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)  | <br> [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) <br>  | [Github](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | [-- |2023|
+| Video ChatCaptioner ![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)  | <br> [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) <br>  | [Github](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | -- |2023|
 | Inner Monologue  | <br> [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://arxiv.org/abs/2207.05608) <br>  | [Github](https://innermonologue.github.io/) | -- |2022|
 | Shikra ![Star](https://img.shields.io/github/stars/shikras/shikra.svg?style=social&label=Star)  | <br> [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/abs/2306.15195) <br>  | [Github](https://github.com/shikras/shikra) | [Demo](shikras/shikra) |2023|
 | MM-REACT ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)  | <br> [**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**](MM-ReAct) <br>  | [Github](https://github.com/microsoft/MM-REACT) | [Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react) |2023|
 | SayCan ![Star](https://img.shields.io/github/stars/kyegomez/SayCan.svg?style=social&label=Star)  | <br> [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/abs/2204.01691) <br>  | [Github](https://github.com/kyegomez/SayCan) | --|2022|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
-| ![Star](https://img.shields.io/github/stars/***************.svg?style=social&label=Star)  | <br> [****]() <br>  | [Github]() | [Demo]() |20|
+| SpeechGPT ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT) | [Demo]-- |2023|
+| WALL-E  | <br> [**WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model**](https://arxiv.org/abs/2308.15962) <br>  | [Github](https://star-uu-wang.github.io/WALL-E/#) | -- |2023|
+
+## Knowledge Enhancer
+
+### Implicit Cognition
+
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| PICa ![Star](https://img.shields.io/github/stars/microsoft/PICa.svg?style=social&label=Star)  | <br> [**An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA**](https://arxiv.org/abs/2109.05014) <br>  | [Github](https://github.com/microsoft/PICa) | -- |2021|
+| ViewRefer ![Star](https://img.shields.io/github/stars/Ivan-Tang-3D/ViewRefer3D.svg?style=social&label=Star)  | <br> [**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**](https://arxiv.org/abs/2303.16894) <br>  | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D) | -- |2023|
+| PromptCap ![Star](https://img.shields.io/github/stars/Yushi-Hu/PromptCap.svg?style=social&label=Star)  | <br> [**PromptCap: Prompt-Guided Task-Aware Image Captioning**](https://arxiv.org/abs/2211.09699) <br>  | [Github](https://github.com/Yushi-Hu/PromptCap) | [Demo](https://huggingface.co/tifa-benchmark/promptcap-coco-vqa) |2023|
+|  KAT ![Star](https://img.shields.io/github/stars/guilk/KAT.svg?style=social&label=Star)  | <br> [**KAT: A Knowledge Augmented Transformer for Vision-and-Language**](https://arxiv.org/abs/2112.08614) <br>  | [Github](https://github.com/guilk/KAT) | -- |2022|
+| REVIVE  ![Star](https://img.shields.io/github/stars/yuanze-lin/REVIVE.svg?style=social&label=Star)  | <br> [**REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering**](https://arxiv.org/abs/2206.01201) <br>  | [Github](https://github.com/yuanze-lin/REVIVE) | -- |2022|
+| CaFo ![Star](https://img.shields.io/github/stars/ZrrSkywalker/CaFo.svg?style=social&label=Star)  | <br> [**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**](https://arxiv.org/abs/2303.02151) <br>  | [Github](https://github.com/ZrrSkywalker/CaFo) | -- |2023|
+| CuPL ![Star](https://img.shields.io/github/stars/sarahpratt/CuPL.svg?style=social&label=Star)  | <br> [**What does a platypus look like? Generating customized prompts for zero-shot image classification**](https://arxiv.org/abs/2209.03320) <br>  | [Github](https://github.com/sarahpratt/CuPL) | -- |2022|
+| Prophet ![Star](https://img.shields.io/github/stars/MILVLG/prophet.svg?style=social&label=Star)  | <br> [**Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/abs/2303.01903) <br>  | [Github](https://github.com/MILVLG/prophet) | -- |2023|
+| Proofread ![Star](https://img.shields.io/github/stars/JindongGu/Awesome-Prompting-on-Vision-Language-Model.svg?style=social&label=Star)  | <br> [**Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA**](https://arxiv.org/abs/2308.15851) <br>  | [Github](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) | -- |2023|
+
+
+
+### Augmented Knowledge
+
+
+|  Model  |   Paper  |   Code   |   Demo   |   Year   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| MM-REACT ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)  | <br> [**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**](MM-ReAct) <br>  | [Github](https://github.com/microsoft/MM-REACT) | [Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react) |2023|
+| ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
+| Chameleon ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)  | <br> [**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) <br>  | [Github](https://github.com/lupantech/chameleon-llm) | -- |2023|
+| LLaVA-Med ![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star)  | <br> [**LLaVA-Med: Large Language and Vision Assistant for Biomedicine**](https://arxiv.org/abs/2306.00890) <br>  | [Github](https://github.com/microsoft/LLaVA-Med) | [Demo](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b) |2023|
+| MedVInt ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star)  | <br> [**Pmc-vqa: Visual instruction tuning for medical visual question**](https://arxiv.org/abs/2305.10415) <br>  | [Github](https://github.com/xiaoman-zhang/PMC-VQA) | [Demo](https://huggingface.co/xmcmic/MedVInT-TE/) |2023|
 
