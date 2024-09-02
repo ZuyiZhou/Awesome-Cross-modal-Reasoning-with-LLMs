@@ -1,9 +1,31 @@
-# Awesome-Cross-modal-Reasoning-with-Large-Language-Models
+# <p align=center> From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
 
 
 
-Coming soon！
+#Coming soon！
 
+## <span id="head-content"> *Content* </span>
+* - [x] [1. Taxonomy](#head1)
+
+* - [x] [2. Methods for LLMs as Multimodal Fusion Engine](#head2)
+  * - [x] [2.1 Methods of Prompt Tuning](#head2-1)
+  * - [x] [2.2 Methods of Instruction Tuning](#head2-2)  
+  * - [x] [2.3 Methods of Multimodal Pre-training](#head2-3)
+  
+* - [x] [3. Methods for LLMs as Textual Processor](#head3)
+  * - [x] [2.1 Methods of Semantic Refiner](#head3-1)
+  * - [x] [2.2 Methods of Content Amplifier](#head3-2)  
+
+* - [x] [4. Methods for LLMs as Multimodal Fusion Engine](#head4)
+  * - [x] [2.1 Methods of Programmatic Construction](#head4-1)
+  * - [x] [2.2 Methods of Linguistic Interaction](#head4-2)  
+
+* - [x] [5. Methods for LLMs as Multimodal Fusion Engine](#head5)
+  * - [x] [2.1 Methods of Prompt Tuning](#head5-1)
+  * - [x] [2.2 Methods of Instruction Tuning](#head5-2)  
+
+
+* [*Contact Us*](#head6)
 
 # Awesome Papers
 
