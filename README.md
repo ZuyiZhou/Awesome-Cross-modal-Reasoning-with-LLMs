@@ -209,8 +209,6 @@
 | MedVInt ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star)  | <br> [**Pmc-vqa: Visual instruction tuning for medical visual question**](https://arxiv.org/abs/2305.10415) <br>  | [Github](https://github.com/xiaoman-zhang/PMC-VQA) | [Demo](https://huggingface.co/xmcmic/MedVInT-TE/) |2023|
 
 
-
-
 ## <span id="head6"> *Contact Us* </span>
 
 Please contact us by e-mail:
