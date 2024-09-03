@@ -1,8 +1,11 @@
 # <p align=center> From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
 
-
-
 #Coming soon！
+
+
+
+> **<p align="justify"> Abstract:** *Cross-modal reasoning (CMR), the intricate process of synthesizing and drawing inferences across divergent sensory modalities, is increasingly recognized as a crucial capability in the progression toward more sophisticated and anthropomorphic artificial intelligence systems. Large Language Models (LLMs) represent a class of AI algorithms specifically engineered to parse, produce, and engage with human language on an extensive scale. The recent trend of deploying LLMs to tackle CMR tasks has marked a new mainstream approach for enhancing their effectiveness. This survey offers a nuanced exposition of current methodologies applied in CMR using LLMs, classifying these into a detailed three-tiered taxonomy. Moreover, the survey delves into the principal design strategies and operational techniques of prototypical models within this domain. Additionally, it articulates the prevailing challenges associated with the integration of LLMs in CMR and identifies prospective research trajectories. Ultimately, this survey endeavors to expedite progress within this burgeoning field by endowing scholars with a holistic and detailed vista, showcasing the vanguard of current research whilst pinpointing potential avenues for advancement.* </p>
+
 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Taxonomy](#head1)
@@ -27,14 +30,25 @@
 
 * [*Contact Us*](#head6)
 
-# <span id="head1"> Taxonomy
+# <span id="head1"> *1. Taxonomy* </span>
 
+* In this survey, we present a three-level taxonomy for CMR with LLMs methods, as follows:
+
+![example1](Figure/circle-tox.png)
 
 # Awesome Papers
 
-## <span id="head2"> Multimodal Fusion Engine
+## <span id="head2"> Multimodal Fusion Engine </span>
 
-### <span id="head2-1"> Prompt Tuning
+### <span id="head2-1"> Prompt Tuning </span>
+
+
+
+
+
+
+
+
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
