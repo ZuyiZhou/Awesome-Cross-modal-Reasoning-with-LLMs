@@ -32,24 +32,15 @@
 
 # <span id="head1"> *1. Taxonomy* </span>
 
-* In this survey, we present a three-level taxonomy for CMR with LLMs methods, as follows:
+* In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
 ![example1](Figure/circle-tox.png)
 
-# Awesome Papers
+# *2.Awesome Papers*
 
-## <span id="head2"> Multimodal Fusion Engine </span>
+## <span id="head2"> *2.1Multimodal Fusion Engine* </span>
 
 ### <span id="head2-1"> Prompt Tuning </span>
-
-
-
-
-
-
-
-
-
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -68,7 +59,7 @@
 | BT-Adapter ![Star](https://img.shields.io/github/stars/farewellthree/BT-Adapter.svg?style=social&label=Star)  | <br> [**BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning**](https://arxiv.org/abs/2309.15785) <br>  | [Github](https://github.com/farewellthree/BT-Adapter) | [Demo](https://huggingface.co/farewellthree/BTAdapter-Weight) |2024|
 |  MEAgent | <br> [**Few-Shot Multimodal Explanation for Visual Question Answering**](https://openreview.net/forum?id=jPpK9RzWvh&referrer=%5Bthe%20profile%20of%20Dizhan%20Xue%5D(%2Fprofile%3Fid%3D~Dizhan_Xue1)) <br>  | [Github](https://github.com/LivXue/FS-MEVQA) | -- |2024|
 
-### <span id="head2-2"> Instruction Tuning
+### <span id="head2-2"> Instruction Tuning </span>
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -111,7 +102,7 @@
 | NExT-GPT ![Star](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)  | <br> [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/pdf/2309.05519) <br>  | [Github](https://github.com/NExT-GPT/NExT-GPT) | [Demo](https://acc414b22d6839d28f.gradio.live/) |2023|
 | SpeechGPT ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt) | [Demo](https://huggingface.co/fnlp/SpeechGPT-7B-cm) |2023|
 
-### <span id="head2-3"> Multimodal Pre-training
+### <span id="head2-3"> Multimodal Pre-training </span>
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -140,9 +131,9 @@
 
 
 
-## <span id="head3"> Textual Processor
+## <span id="head3"> *2.2Textual Processor* </span>
 
-### <span id="head3-1"> Semantic Refiner
+### <span id="head3-1"> Semantic Refiner </span>
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
@@ -153,7 +144,7 @@
 | MoqaGPT ![Star](https://img.shields.io/github/stars/lezhang7/MOQAGPT.svg?style=social&label=Star)  | <br> [**MoqaGPT : Zero-Shot Multi-modal Open-domain Question Answering with Large Language Model**](https://arxiv.org/abs/2310.13265) <br>  | [Github](https://github.com/lezhang7/MOQAGPT) | -- |2023|
 | VAST ![Star](https://img.shields.io/github/stars/TXH-mercury/VAST.svg?style=social&label=Star)  | <br> [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500) <br>  | [Github](https://github.com/TXH-mercury/VAST) | -- |2023|
 
-### <span id="head3-2"> Content Amplifier
+### <span id="head3-2"> Content Amplifier </span>
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -162,9 +153,9 @@
 | IdealGPT ![Star](https://img.shields.io/github/stars/Hxyou/IdealGPT.svg?style=social&label=Star)  | <br> [**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**](https://arxiv.org/pdf/2305.14985.pdf) <br>  | [Github](https://github.com/Hxyou/IdealGPT) | -- |2023|
 | UnifiedQA ![Star](https://img.shields.io/github/stars/allenai/unifiedqa.svg?style=social&label=Star)  | <br> [**UnifiedQA: Crossing Format Boundaries With a Single QA System**](https://arxiv.org/abs/2005.00700) <br>  | [Github](https://github.com/allenai/unifiedqa) | [Demo]( https://unifiedqa.apps.allenai.org/) |2020|
 
-## <span id="head4"> Cognitive Controller
+## <span id="head4"> *2.3Cognitive Controller* </span>
 
-### <span id="head4-1"> Programmantic Construction
+### <span id="head4-1"> Programmantic Construction </span>
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
@@ -178,7 +169,7 @@
 | ViperGPT ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)  | <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) <br>  | [Github](https://github.com/cvlab-columbia/viper) | -- |2023|
 | ProViQ  | <br> [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) <br>  | -- | --|2023|
 |  MEAgent | <br> [**Few-Shot Multimodal Explanation for Visual Question Answering**](https://openreview.net/forum?id=jPpK9RzWvh&referrer=%5Bthe%20profile%20of%20Dizhan%20Xue%5D(%2Fprofile%3Fid%3D~Dizhan_Xue1)) <br>  | [Github](https://github.com/LivXue/FS-MEVQA) | -- |2024|
-### <span id="head4-2"> Linguistic Interaction
+### <span id="head4-2"> Linguistic Interaction  </span>
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -192,9 +183,9 @@
 | SpeechGPT ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT) | [Demo]-- |2023|
 | WALL-E  | <br> [**WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model**](https://arxiv.org/abs/2308.15962) <br>  | [Github](https://star-uu-wang.github.io/WALL-E/#) | -- |2023|
 
-## <span id="head5"> Knowledge Enhancer
+## <span id="head5"> *2.4Knowledge Enhancer* </span>
 
-### <span id="head5-1"> Implicit Cognition
+### <span id="head5-1"> Implicit Cognition </span>
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
@@ -211,7 +202,7 @@
 
 
 
-### <span id="head5-2"> Augmented Knowledge
+### <span id="head5-2"> Augmented Knowledge </span>
 
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
