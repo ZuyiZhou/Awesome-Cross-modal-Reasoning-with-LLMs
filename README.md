@@ -1,6 +1,6 @@
 # <p align=center> From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
 
-#Coming soon！
+# Coming soon！
 
 
 
