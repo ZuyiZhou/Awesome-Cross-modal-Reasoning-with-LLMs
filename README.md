@@ -33,13 +33,14 @@
 
 ![iamge](Figure/image-application.png)
 
-
-
 # <span id="head1"> *2. Taxonomy* </span>
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-![image](Figure/circle-tox.png)
+<p align="center">
+    <img src="./Figure/circle-tox.png" width="50%" height="50%">
+</p>
+
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
