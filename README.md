@@ -31,7 +31,7 @@
 * [*Contact Us*](#head6)
 # <span id="head1"> *1. Introduaction* </span>
 
-![example1](Figure/image-application.png)
+![iamge](Figure/image-application.png)
 
 
 
@@ -39,11 +39,11 @@
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-![example2](Figure/circle-tox.png =600x) #pic_center
+![image](Figure/circle-tox.png =600x) #pic_center
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-![example1](Figure/model-list.png)
+![image](Figure/model-list.png)
 
 # *3.Awesome Papers*
 
