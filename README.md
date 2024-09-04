@@ -1,6 +1,4 @@
 # <p align=center> 🌟From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
-
-# Coming soon！
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZuyiZhou%2FAwesome-Cross-modal-Reasoning-with-LLMs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 > **<p align="justify"> Abstract:** *Cross-modal reasoning (CMR), the intricate process of synthesizing and drawing inferences across divergent sensory modalities, is increasingly recognized as a crucial capability in the progression toward more sophisticated and anthropomorphic artificial intelligence systems. Large Language Models (LLMs) represent a class of AI algorithms specifically engineered to parse, produce, and engage with human language on an extensive scale. The recent trend of deploying LLMs to tackle CMR tasks has marked a new mainstream approach for enhancing their effectiveness. This survey offers a nuanced exposition of current methodologies applied in CMR using LLMs, classifying these into a detailed three-tiered taxonomy. Moreover, the survey delves into the principal design strategies and operational techniques of prototypical models within this domain. Additionally, it articulates the prevailing challenges associated with the integration of LLMs in CMR and identifies prospective research trajectories. Ultimately, this survey endeavors to expedite progress within this burgeoning field by endowing scholars with a holistic and detailed vista, showcasing the vanguard of current research whilst pinpointing potential avenues for advancement.* </p>
 
@@ -29,8 +27,11 @@
 
 
 * [*Contact Us*](#head6) 📞 ☎
-# <span id="head1"> *1. Introduction* 🏞</span>
 
+
+
+# <span id="head1"> *1. Introduction* 🏞</span>
+Large Language Models (LLMs) like GPT-4 and Gemini have revolutionized AI, excelling in natural language tasks but facing limitations in complex reasoning and multimodal understanding. Cross-Modal Reasoning (CMR) with LLMs integrates their ability to reason across different data types, impacting tasks like visual question answering and image captioning. This survey introduces a novel taxonomy for CMR with LLMs, categorizes their roles, analyzes current models, and discusses challenges and future directions.
 ![iamge](Figure/image-application.png)
 
 # <span id="head1"> *2. Taxonomy* 🔣</span>
