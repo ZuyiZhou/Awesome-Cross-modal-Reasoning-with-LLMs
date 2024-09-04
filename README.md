@@ -1,4 +1,4 @@
-# <p align=center> 🌟From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models🌟 
+# <p align=center> 🌟From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
 
 # Coming soon！
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZuyiZhou%2FAwesome-Cross-modal-Reasoning-with-LLMs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -224,9 +224,13 @@
 | MedVInt ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star)  | <br> [**Pmc-vqa: Visual instruction tuning for medical visual question**](https://arxiv.org/abs/2305.10415) <br>  | [Github](https://github.com/xiaoman-zhang/PMC-VQA) | [Demo](https://huggingface.co/xmcmic/MedVInT-TE/) |2023|
 
 
-## <span id="head6"> *Contact Us* </span>
+## <span id="head6"> *Contact Us* 📬📬📬 </span>
 
 Please get in touch with us by e-mail:
+
+```bash
+zhouzuyi2023@ia.ac.cn
+```
 
 ```bash
 xuedizhan17@mails.ucas.ac.cn
@@ -234,8 +238,4 @@ xuedizhan17@mails.ucas.ac.cn
 
 ```bash
 shengsheng.qian@nlpr.ia.ac.cn
-```
-
-```bash
-zhouzuyi2023@ia.ac.cn
 ```
