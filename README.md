@@ -29,7 +29,7 @@
 
 
 * [*Contact Us*](#head6)
-# <span id="head1"> *1. Introduaction* </span>
+# <span id="head1"> *1. Introduction* </span>
 
 ![iamge](Figure/image-application.png)
 
@@ -39,7 +39,7 @@
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-![image](Figure/circle-tox.png) #pic_center
+![image](Figure/circle-tox.png =600x) #pic_center
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
@@ -225,7 +225,7 @@
 
 ## <span id="head6"> *Contact Us* </span>
 
-Please contact us by e-mail:
+Please get in touch with us by e-mail:
 
 ```bash
 xuedizhan17@mails.ucas.ac.cn
