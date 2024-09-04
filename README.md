@@ -39,7 +39,7 @@
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-#pic_center![example2](Figure/circle-tox.png=600x600)
+![example2](Figure/circle-tox.png =600x600) #pic_center
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
