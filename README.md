@@ -225,7 +225,7 @@
 
 ## <span id="head6"> *Contact Us* </span>
 
-Please contact us by e-mail:
+Please get in touch with us by e-mail:
 
 ```bash
 xuedizhan17@mails.ucas.ac.cn
