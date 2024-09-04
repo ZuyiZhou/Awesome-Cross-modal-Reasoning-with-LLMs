@@ -29,11 +29,11 @@
 
 
 * [*Contact Us*](#head6)
-# <span id="head1"> *1. Introduction* </span>
+# <span id="head1"> *1. Introduction*🏞 🌅 🏙</span>
 
 ![iamge](Figure/image-application.png)
 
-# <span id="head1"> *2. Taxonomy* </span>
+# <span id="head1"> *2. Taxonomy* 🔣 🔢 🔡</span>
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
@@ -46,9 +46,9 @@
 
 ![image](Figure/model-list.png)
 
-# *3.Awesome Papers*
+# *3.Awesome Papers* 📜📜📜
 
-## <span id="head2"> *3.1Multimodal Fusion Engine* </span>
+## <span id="head2"> *3.1Multimodal Fusion Engine* 🔗🔗🔗 </span>
 
 ### <span id="head2-1"> Prompt Tuning </span>
 
@@ -141,7 +141,7 @@
 
 
 
-## <span id="head3"> *3.2Textual Processor* </span>
+## <span id="head3"> *3.2Textual Processor* 📝📝📝</span>
 
 ### <span id="head3-1"> Semantic Refiner </span>
 
@@ -163,7 +163,7 @@
 | IdealGPT ![Star](https://img.shields.io/github/stars/Hxyou/IdealGPT.svg?style=social&label=Star)  | <br> [**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**](https://arxiv.org/pdf/2305.14985.pdf) <br>  | [Github](https://github.com/Hxyou/IdealGPT) | -- |2023|
 | UnifiedQA ![Star](https://img.shields.io/github/stars/allenai/unifiedqa.svg?style=social&label=Star)  | <br> [**UnifiedQA: Crossing Format Boundaries With a Single QA System**](https://arxiv.org/abs/2005.00700) <br>  | [Github](https://github.com/allenai/unifiedqa) | [Demo]( https://unifiedqa.apps.allenai.org/) |2020|
 
-## <span id="head4"> *3.3Cognitive Controller* </span>
+## <span id="head4"> *3.3Cognitive Controller* 🖥🖥🖥 </span>
 
 ### <span id="head4-1"> Programmantic Construction </span>
 
@@ -193,7 +193,7 @@
 | SpeechGPT ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT) | [Demo]-- |2023|
 | WALL-E  | <br> [**WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model**](https://arxiv.org/abs/2308.15962) <br>  | [Github](https://star-uu-wang.github.io/WALL-E/#) | -- |2023|
 
-## <span id="head5"> *3.4Knowledge Enhancer* </span>
+## <span id="head5"> *3.4Knowledge Enhancer*  📚📚📚 </span>
 
 ### <span id="head5-1"> Implicit Cognition </span>
 
