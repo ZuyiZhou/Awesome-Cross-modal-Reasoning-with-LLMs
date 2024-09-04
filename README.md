@@ -1,4 +1,4 @@
-# <p align=center> From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
+# <p align=center> 🌟From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models🌟 
 
 # Coming soon！
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZuyiZhou%2FAwesome-Cross-modal-Reasoning-with-LLMs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -29,11 +29,11 @@
 
 
 * [*Contact Us*](#head6)
-# <span id="head1"> *1. Introduction*🏞 🌅 🏙</span>
+# <span id="head1"> *1. Introduction*🌅</span>
 
 ![iamge](Figure/image-application.png)
 
-# <span id="head1"> *2. Taxonomy* 🔣 🔢 🔡</span>
+# <span id="head1"> *2. Taxonomy* 🔣</span>
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
@@ -48,7 +48,7 @@
 
 # *3.Awesome Papers* 📜📜📜
 
-## <span id="head2"> *3.1Multimodal Fusion Engine* 🔗🔗🔗 </span>
+## <span id="head2"> *3.1Multimodal Fusion Engine* ⚙⚙⚙ </span>
 
 ### <span id="head2-1"> Prompt Tuning </span>
 
