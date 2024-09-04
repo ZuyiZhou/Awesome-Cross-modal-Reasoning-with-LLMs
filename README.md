@@ -28,7 +28,7 @@
     * - [x] [Methods of Instruction Tuning](#head5-2)  
 
 
-* [*Contact Us*](#head6)
+* [*Contact Us*](#head6) 📞 ☎
 # <span id="head1"> *1. Introduction* 🏞</span>
 
 ![iamge](Figure/image-application.png)
