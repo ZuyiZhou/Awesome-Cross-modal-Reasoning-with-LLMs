@@ -6,11 +6,11 @@
 
 
 ## <span id="head-content"> *Content* 🔍 </span>
-* - [x] [1. Intro 🏞](#head1)
-* - [x] [2. Taxonomy🔣](#headtox)
+* - [x] [1. Intro ](#head1) 🏞
+* - [x] [2. Taxonomy](#headtox) 🔣
 
 * - [x] [3. Methods 📜](#head2)
-  * - [x] [3.1 Methods for LLMs as Multimodal Fusion Engine] ⚙
+  * - [x] [3.1 Methods for LLMs as Multimodal Fusion Engine](#head2) ⚙
     * - [x] [Methods of Prompt Tuning](#head2-1)
     * - [x] [Methods of Instruction Tuning](#head2-2)  
     * - [x] [Methods of Multimodal Pre-training](#head2-3)
