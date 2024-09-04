@@ -1,44 +1,51 @@
 # <p align=center> From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models
 
 # Coming soon！
-
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZuyiZhou%2FAwesome-Cross-modal-Reasoning-with-LLMs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 > **<p align="justify"> Abstract:** *Cross-modal reasoning (CMR), the intricate process of synthesizing and drawing inferences across divergent sensory modalities, is increasingly recognized as a crucial capability in the progression toward more sophisticated and anthropomorphic artificial intelligence systems. Large Language Models (LLMs) represent a class of AI algorithms specifically engineered to parse, produce, and engage with human language on an extensive scale. The recent trend of deploying LLMs to tackle CMR tasks has marked a new mainstream approach for enhancing their effectiveness. This survey offers a nuanced exposition of current methodologies applied in CMR using LLMs, classifying these into a detailed three-tiered taxonomy. Moreover, the survey delves into the principal design strategies and operational techniques of prototypical models within this domain. Additionally, it articulates the prevailing challenges associated with the integration of LLMs in CMR and identifies prospective research trajectories. Ultimately, this survey endeavors to expedite progress within this burgeoning field by endowing scholars with a holistic and detailed vista, showcasing the vanguard of current research whilst pinpointing potential avenues for advancement.* </p>
 
 
 ## <span id="head-content"> *Content* </span>
-* - [x] [1. Taxonomy](#head1)
+* - [x] [1. Intro](#head1)
+* - [x] [2. Taxonomy](#headtox)
 
-* - [x] [3.1 Methods for LLMs as Multimodal Fusion Engine](#head2)
-  * - [x] [Methods of Prompt Tuning](#head2-1)
-  * - [x] [Methods of Instruction Tuning](#head2-2)  
-  * - [x] [Methods of Multimodal Pre-training](#head2-3)
-  
-* - [x] [3.2 Methods for LLMs as Textual Processor](#head3)
-  * - [x] [Methods of Semantic Refiner](#head3-1)
-  * - [x] [Methods of Content Amplifier](#head3-2)  
+* - [x] [3. Methods](#head2)
+  * - [x] [3.1 Methods for LLMs as Multimodal Fusion Engine]
+    * - [x] [Methods of Prompt Tuning](#head2-1)
+    * - [x] [Methods of Instruction Tuning](#head2-2)  
+    * - [x] [Methods of Multimodal Pre-training](#head2-3)
+    
+  * - [x] [3.2 Methods for LLMs as Textual Processor](#head3)
+    * - [x] [Methods of Semantic Refiner](#head3-1)
+    * - [x] [Methods of Content Amplifier](#head3-2)  
 
-* - [x] [3.3 Methods for LLMs as Multimodal Fusion Engine](#head4)
-  * - [x] [Methods of Programmatic Construction](#head4-1)
-  * - [x] [Methods of Linguistic Interaction](#head4-2)  
+  * - [x] [3.3 Methods for LLMs as Multimodal Fusion Engine](#head4)
+    * - [x] [Methods of Programmatic Construction](#head4-1)
+    * - [x] [Methods of Linguistic Interaction](#head4-2)  
 
-* - [x] [3.4 Methods for LLMs as Multimodal Fusion Engine](#head5)
-  * - [x] [Methods of Prompt Tuning](#head5-1)
-  * - [x] [Methods of Instruction Tuning](#head5-2)  
+  * - [x] [3.4 Methods for LLMs as Multimodal Fusion Engine](#head5)
+    * - [x] [Methods of Prompt Tuning](#head5-1)
+    * - [x] [Methods of Instruction Tuning](#head5-2)  
 
 
 * [*Contact Us*](#head6)
+# <span id="head1"> *1. Introduaction* </span>
 
-# <span id="head1"> *1. Taxonomy* </span>
+![example1](Figure/image-application.png)
+
+
+
+# <span id="head1"> *2. Taxonomy* </span>
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
 ![example1](Figure/circle-tox.png)
 
+* In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
+
 # *2.Awesome Papers*
 
-## <span id="head2"> *2.1Multimodal Fusion Engine* </span>
+## <span id="head2"> *3.1Multimodal Fusion Engine* </span>
 
 ### <span id="head2-1"> Prompt Tuning </span>
 
@@ -131,7 +138,7 @@
 
 
 
-## <span id="head3"> *2.2Textual Processor* </span>
+## <span id="head3"> *3.2Textual Processor* </span>
 
 ### <span id="head3-1"> Semantic Refiner </span>
 
@@ -153,7 +160,7 @@
 | IdealGPT ![Star](https://img.shields.io/github/stars/Hxyou/IdealGPT.svg?style=social&label=Star)  | <br> [**IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models**](https://arxiv.org/pdf/2305.14985.pdf) <br>  | [Github](https://github.com/Hxyou/IdealGPT) | -- |2023|
 | UnifiedQA ![Star](https://img.shields.io/github/stars/allenai/unifiedqa.svg?style=social&label=Star)  | <br> [**UnifiedQA: Crossing Format Boundaries With a Single QA System**](https://arxiv.org/abs/2005.00700) <br>  | [Github](https://github.com/allenai/unifiedqa) | [Demo]( https://unifiedqa.apps.allenai.org/) |2020|
 
-## <span id="head4"> *2.3Cognitive Controller* </span>
+## <span id="head4"> *3.3Cognitive Controller* </span>
 
 ### <span id="head4-1"> Programmantic Construction </span>
 
@@ -183,7 +190,7 @@
 | SpeechGPT ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)  | <br> [**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**](https://arxiv.org/abs/2305.11000) <br>  | [Github](https://github.com/0nutation/SpeechGPT) | [Demo]-- |2023|
 | WALL-E  | <br> [**WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model**](https://arxiv.org/abs/2308.15962) <br>  | [Github](https://star-uu-wang.github.io/WALL-E/#) | -- |2023|
 
-## <span id="head5"> *2.4Knowledge Enhancer* </span>
+## <span id="head5"> *3.4Knowledge Enhancer* </span>
 
 ### <span id="head5-1"> Implicit Cognition </span>
 
