@@ -9,7 +9,7 @@
 * - [x] [1. Intro ](#head1) 🏞
 * - [x] [2. Taxonomy](#headtox) 🔣
 
-* - [x] [3. Methods 📜](#head2)
+* - [x] [3. Methods](#head2)📜
   * - [x] [3.1 Methods for LLMs as Multimodal Fusion Engine](#head2) ⚙
     * - [x] [Methods of Prompt Tuning](#head2-1)
     * - [x] [Methods of Instruction Tuning](#head2-2)  
@@ -23,7 +23,7 @@
     * - [x] [Methods of Programmatic Construction](#head4-1)
     * - [x] [Methods of Linguistic Interaction](#head4-2)  
 
-  * - [x] [3.4 Methods for LLMs as Knowledge Enhancer](#head5) 📚 
+  * - [x] [3.4 Methods for LLMs as Knowledge Enhancer](#head5) 📚
     * - [x] [Methods of Prompt Tuning](#head5-1)
     * - [x] [Methods of Instruction Tuning](#head5-2)  
 
