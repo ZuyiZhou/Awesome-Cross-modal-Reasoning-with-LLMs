@@ -22,8 +22,8 @@
     * - [x] [Methods of Linguistic Interaction](#head4-2)  
 
   * - [x] [3.4 Methods for LLMs as Knowledge Enhancer](#head5) 📚
-    * - [x] [Methods of Prompt Tuning](#head5-1)
-    * - [x] [Methods of Instruction Tuning](#head5-2)  
+    * - [x] [Methods of Implicit Cognition](#head5-1)
+    * - [x] [Methods of Augmented Knowledge](#head5-2)  
 
 
 * [*Contact Us*](#head6) 📞 ☎
@@ -171,7 +171,7 @@ Large Language Models (LLMs) like GPT-4 and Gemini have revolutionized AI, excel
 
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
+| HuggingGPT ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
 | Chameleon ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)  | <br> [**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) <br>  | [Github](https://github.com/lupantech/chameleon-llm) | -- |2023|
 | AssistGPT ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)  | <br> [**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**](https://arxiv.org/abs/2306.08640) <br>  | [Github](https://github.com/showlab/assistgpt) | -- |2023|
 | ProgPrompt ![Star](https://img.shields.io/github/stars/NVlabs/progprompt-vh.svg?style=social&label=Star)  | <br> [**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br>  | [Github](https://github.com/NVlabs/progprompt-vh) | -- |2022|
@@ -219,7 +219,7 @@ Large Language Models (LLMs) like GPT-4 and Gemini have revolutionized AI, excel
 |  Model  |   Paper  |   Code   |   Demo   |   Year   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | MM-REACT ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)  | <br> [**MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**](MM-ReAct) <br>  | [Github](https://github.com/microsoft/MM-REACT) | [Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react) |2023|
-| ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
+| HuggingGPT ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)  | <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) <br>  | [Github](https://github.com/microsoft/JARVIS/tree/main/hugginggpt) | [Demo](https://huggingface.co/spaces/microsoft/HuggingGPT) |2023|
 | Chameleon ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)  | <br> [**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/abs/2304.09842) <br>  | [Github](https://github.com/lupantech/chameleon-llm) | -- |2023|
 | LLaVA-Med ![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star)  | <br> [**LLaVA-Med: Large Language and Vision Assistant for Biomedicine**](https://arxiv.org/abs/2306.00890) <br>  | [Github](https://github.com/microsoft/LLaVA-Med) | [Demo](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b) |2023|
 | MedVInt ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star)  | <br> [**Pmc-vqa: Visual instruction tuning for medical visual question**](https://arxiv.org/abs/2305.10415) <br>  | [Github](https://github.com/xiaoman-zhang/PMC-VQA) | [Demo](https://huggingface.co/xmcmic/MedVInT-TE/) |2023|
