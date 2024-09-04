@@ -39,11 +39,13 @@
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-![example1](Figure/circle-tox.png)
+![example2](Figure/circle-tox.png)
 
 * In this survey, we present a taxonomy for CMR with LLMs methods, as follows:
 
-# *2.Awesome Papers*
+![example1](Figure/circle-tox.png)
+
+# *3.Awesome Papers*
 
 ## <span id="head2"> *3.1Multimodal Fusion Engine* </span>
 
