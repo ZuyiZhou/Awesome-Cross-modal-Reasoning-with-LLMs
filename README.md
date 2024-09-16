@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Status](https://img.shields.io/badge/Status-maintained-brightgreen)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZuyiZhou%2FAwesome-Cross-modal-Reasoning-with-LLMs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 [Shengsheng Qian](https://scholar.google.com/citations?user=bPX5POgAAAAJ),
 [Zuyi Zhou](https://orcid.org/0009-0008-0306-8461),
 [Dizhan Xue](https://scholar.google.com/citations?user=V5Aeh_oAAAAJ),
