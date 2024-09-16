@@ -6,7 +6,7 @@
 [Shengsheng Qian](https://scholar.google.com/citations?user=bPX5POgAAAAJ),
 [Zuyi Zhou](https://orcid.org/0009-0008-0306-8461),
 [Dizhan Xue](https://scholar.google.com/citations?user=V5Aeh_oAAAAJ),
-Bing wang,
+Bing Wang,
 and [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ)
 > **<p align="justify"> Abstract:** Cross-modal reasoning (CMR), the intricate process of synthesizing and drawing inferences across divergent sensory modalities, is increasingly recognized as a crucial capability in the progression toward more sophisticated and anthropomorphic artificial intelligence systems. Large Language Models (LLMs) represent a class of AI algorithms specifically engineered to parse, produce, and engage with human language on an extensive scale. The recent trend of deploying LLMs to tackle CMR tasks has marked a new mainstream of approaches for enhancing their effectiveness. This survey offers a nuanced exposition of current methodologies applied in CMR using LLMs, classifying these into a detailed three-tiered taxonomy. Moreover, the survey delves into the principal design strategies and operational techniques of prototypical models within this domain. Additionally, it articulates the prevailing challenges associated with the integration of LLMs in CMR and identifies prospective research directions. To sum up, this survey endeavors to expedite progress within this burgeoning field by endowing scholars with a holistic and detailed vista, showcasing the vanguard of current research whilst pinpointing potential avenues for advancement.** </p>
 
