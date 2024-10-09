@@ -6,7 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2409.18996-b31b1b.svg)](https://arxiv.org/abs/2409.18996)
 
 [Shengsheng Qian](https://scholar.google.com/citations?user=bPX5POgAAAAJ),
-[Zuyi Zhou](https://orcid.org/0009-0008-0306-8461),
+[Zuyi Zhou](https://www.researchgate.net/profile/Zuyi-Zhou-2),
 [Dizhan Xue](https://scholar.google.com/citations?user=V5Aeh_oAAAAJ),
 Bing Wang,
 and [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ)
@@ -14,8 +14,8 @@ and [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ)
 
 
 
-##  Citation
-If you find our paper or this repo helpful for your research, please cite it as below. Thanks!
+##  Citation👇👇👇
+If you find our paper or this repo helpful for your research, please cite it as below. Thanks!💖
 
 ```bibtex
 @misc{qian2024linguistic,
