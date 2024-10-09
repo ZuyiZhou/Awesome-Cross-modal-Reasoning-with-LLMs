@@ -18,7 +18,13 @@ and [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ)
 If you find our paper or this repo helpful for your research, please cite it as below. Thanks!
 
 ```bibtex
-
+@misc{qian2024linguistic,
+      title={From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models}, 
+      author={Shengsheng Qian and Zuyi Zhou and Dizhan Xue and Bing Wang and Changsheng Xu},
+      year={2024},
+      eprint={2409.18996},
+      archivePrefix={arXiv},
+}
 ```
 
 ## <span id="head-content"> *Content* 🔍 </span>
